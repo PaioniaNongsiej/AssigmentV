@@ -1,0 +1,7 @@
+C:\Users\Paionia\source\repos\Assignment03\Assignment03\bin\Debug\Assignment03.exe.config
+C:\Users\Paionia\source\repos\Assignment03\Assignment03\bin\Debug\Assignment03.exe
+C:\Users\Paionia\source\repos\Assignment03\Assignment03\bin\Debug\Assignment03.pdb
+C:\Users\Paionia\source\repos\Assignment03\Assignment03\obj\Debug\Assignment03.csproj.AssemblyReference.cache
+C:\Users\Paionia\source\repos\Assignment03\Assignment03\obj\Debug\Assignment03.csproj.CoreCompileInputs.cache
+C:\Users\Paionia\source\repos\Assignment03\Assignment03\obj\Debug\Assignment03.exe
+C:\Users\Paionia\source\repos\Assignment03\Assignment03\obj\Debug\Assignment03.pdb

@@ -1,0 +1,7 @@
+C:\Users\Paionia\source\repos\Assignment03\Question3\Question3\bin\Debug\Question3.exe.config
+C:\Users\Paionia\source\repos\Assignment03\Question3\Question3\bin\Debug\Question3.exe
+C:\Users\Paionia\source\repos\Assignment03\Question3\Question3\bin\Debug\Question3.pdb
+C:\Users\Paionia\source\repos\Assignment03\Question3\Question3\obj\Debug\Question3.csproj.AssemblyReference.cache
+C:\Users\Paionia\source\repos\Assignment03\Question3\Question3\obj\Debug\Question3.csproj.CoreCompileInputs.cache
+C:\Users\Paionia\source\repos\Assignment03\Question3\Question3\obj\Debug\Question3.exe
+C:\Users\Paionia\source\repos\Assignment03\Question3\Question3\obj\Debug\Question3.pdb
