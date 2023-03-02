@@ -1,0 +1,7 @@
+C:\Users\paionian\source\repos\assignment4q2\assignment4q2\bin\Debug\assignment4q2.exe.config
+C:\Users\paionian\source\repos\assignment4q2\assignment4q2\bin\Debug\assignment4q2.exe
+C:\Users\paionian\source\repos\assignment4q2\assignment4q2\bin\Debug\assignment4q2.pdb
+C:\Users\paionian\source\repos\assignment4q2\assignment4q2\obj\Debug\assignment4q2.csproj.AssemblyReference.cache
+C:\Users\paionian\source\repos\assignment4q2\assignment4q2\obj\Debug\assignment4q2.csproj.CoreCompileInputs.cache
+C:\Users\paionian\source\repos\assignment4q2\assignment4q2\obj\Debug\assignment4q2.exe
+C:\Users\paionian\source\repos\assignment4q2\assignment4q2\obj\Debug\assignment4q2.pdb

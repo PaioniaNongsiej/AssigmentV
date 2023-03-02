@@ -1,0 +1,7 @@
+C:\Users\paionian\Desktop\paionia\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\paionian\Desktop\paionia\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+C:\Users\paionian\Desktop\paionia\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+C:\Users\paionian\Desktop\paionia\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.AssemblyReference.cache
+C:\Users\paionian\Desktop\paionia\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.CoreCompileInputs.cache
+C:\Users\paionian\Desktop\paionia\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+C:\Users\paionian\Desktop\paionia\Assignment4\Assignment4\obj\Debug\Assignment4.pdb

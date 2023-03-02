@@ -1,0 +1,6 @@
+C:\Users\paionian\source\repos\Assignment4Q3\Assignment4Q3\bin\Debug\Assignment4Q3.exe.config
+C:\Users\paionian\source\repos\Assignment4Q3\Assignment4Q3\bin\Debug\Assignment4Q3.exe
+C:\Users\paionian\source\repos\Assignment4Q3\Assignment4Q3\bin\Debug\Assignment4Q3.pdb
+C:\Users\paionian\source\repos\Assignment4Q3\Assignment4Q3\obj\Debug\Assignment4Q3.csproj.CoreCompileInputs.cache
+C:\Users\paionian\source\repos\Assignment4Q3\Assignment4Q3\obj\Debug\Assignment4Q3.exe
+C:\Users\paionian\source\repos\Assignment4Q3\Assignment4Q3\obj\Debug\Assignment4Q3.pdb
