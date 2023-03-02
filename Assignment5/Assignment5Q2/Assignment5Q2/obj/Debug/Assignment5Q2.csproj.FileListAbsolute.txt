@@ -1,0 +1,7 @@
+C:\Users\paionian\source\repos\Assignment5Q2\Assignment5Q2\bin\Debug\Assignment5Q2.exe.config
+C:\Users\paionian\source\repos\Assignment5Q2\Assignment5Q2\bin\Debug\Assignment5Q2.exe
+C:\Users\paionian\source\repos\Assignment5Q2\Assignment5Q2\bin\Debug\Assignment5Q2.pdb
+C:\Users\paionian\source\repos\Assignment5Q2\Assignment5Q2\obj\Debug\Assignment5Q2.csproj.AssemblyReference.cache
+C:\Users\paionian\source\repos\Assignment5Q2\Assignment5Q2\obj\Debug\Assignment5Q2.csproj.CoreCompileInputs.cache
+C:\Users\paionian\source\repos\Assignment5Q2\Assignment5Q2\obj\Debug\Assignment5Q2.exe
+C:\Users\paionian\source\repos\Assignment5Q2\Assignment5Q2\obj\Debug\Assignment5Q2.pdb
