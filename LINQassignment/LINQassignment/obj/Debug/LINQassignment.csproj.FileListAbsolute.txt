@@ -1,0 +1,7 @@
+C:\Users\Paionia\source\repos\LINQassignment\LINQassignment\bin\Debug\LINQassignment.exe.config
+C:\Users\Paionia\source\repos\LINQassignment\LINQassignment\bin\Debug\LINQassignment.exe
+C:\Users\Paionia\source\repos\LINQassignment\LINQassignment\bin\Debug\LINQassignment.pdb
+C:\Users\Paionia\source\repos\LINQassignment\LINQassignment\obj\Debug\LINQassignment.csproj.CoreCompileInputs.cache
+C:\Users\Paionia\source\repos\LINQassignment\LINQassignment\obj\Debug\LINQassignment.exe
+C:\Users\Paionia\source\repos\LINQassignment\LINQassignment\obj\Debug\LINQassignment.pdb
+C:\Users\Paionia\source\repos\LINQassignment\LINQassignment\obj\Debug\LINQassignment.csproj.AssemblyReference.cache
