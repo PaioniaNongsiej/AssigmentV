@@ -1,0 +1,15 @@
+﻿@model IEnumerable<MVC_Assignment.Models.Movie>
+@{
+    ViewBag.Title = "getReleaseByYear";
+}
+
+<h2>getReleaseByYear</h2>
+
+@foreach (var m in Model)
+{
+    <ul>
+        <li>@m.MovieName</li>
+        <li>@m.DateofRelease</li>
+        
+    </ul>
+}
